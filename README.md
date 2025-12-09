@@ -10,17 +10,6 @@ A fully static version of the Oakridge DECA website, converted from Django to HT
 
 ---
 
-## 📑 Table of Contents
-
-- [🚀 Features](#-features)  
-- [⚙️ Setup Instructions](#-setup-instructions)  
-- [📂 Project Structure](#-project-structure)  
-- [📦 Deployment on GitHub Pages](#-deployment-on-github-pages)  
-- [🧰 Tech Stack](#-tech-stack)  
-- [🏁 License](#-license)  
-
----
-
 ## 🚀 Features
 
 - Mobile-optimized and fully responsive  
